@@ -1,6 +1,6 @@
 ***
-# Méréstechnikai Feladat: T Ellenállás-hálózat ![kando]([imageedit_3_3893777332_c4067ae601_11zon_11zon](https://github.com/user-attachments/assets/424308c4-877c-44d6-aa17-e7a8a4a9f16d)
-
+# Méréstechnikai Feladat: T Ellenállás-hálózat ![kando](![imageedit_3_3893777332_c4067ae601_11zon_11zon](https://github.com/user-attachments/assets/49cde67e-5bc8-49cf-87d7-996dc369a583)
+)
 
 
  
