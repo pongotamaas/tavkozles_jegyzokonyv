@@ -1,5 +1,6 @@
 # Méréstechnikai Feladat: T Ellenállás-hálózat  
-## FASZ2  
+
+*Méréstechnikai Feladat: T Ellenállás-hálózat*
 ### Fasz3  
 
 - menu 1  
