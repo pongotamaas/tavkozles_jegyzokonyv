@@ -1,5 +1,5 @@
 # Méréstechnikai Feladat: T Ellenállás-hálózat  
----
+***
 *Méréstechnikai Feladat: T Ellenállás-hálózat*
 ### Feladat Célja  
 *A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállásértékek alapján*
