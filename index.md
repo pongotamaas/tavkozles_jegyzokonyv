@@ -12,3 +12,9 @@
 - Breadboard
 - Jelgenerátor
 - Oszcilloszkóp
+### Ábra 
+
+
+
+
+### Mérés menete:
