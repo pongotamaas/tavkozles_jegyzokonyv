@@ -1,8 +1,14 @@
 # Méréstechnikai Feladat: T Ellenállás-hálózat  
 
 *Méréstechnikai Feladat: T Ellenállás-hálózat*
-### Fasz3  
+### Feladat Célja  
+*A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállásértékek alapján*
+### Eszközök
 
-- menu 1  
-- menu 2  
-- menu3   
+. Multiméter    
+. Ellenállások:
+  -  R1 =
+  -  R2 =
+. Breadboard
+. Jelgenerátor
+. Oszcilloszkóp
