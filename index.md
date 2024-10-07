@@ -1,5 +1,5 @@
 ***
-# Méréstechnikai Feladat: T Ellenállás-hálózat  ![kando][internal-source]{: style="width:50px"} ![kandp](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kkszki.hu%2F&psig=AOvVaw3oIt39Sg-eDza3kDeqgvNz&ust=1728388988376000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjam--c_IgDFQAAAAAdAAAAABAE)
+# Méréstechnikai Feladat: T Ellenállás-hálózat [external-source]:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kkszki.hu%2F&psig=AOvVaw3oIt39Sg-eDza3kDeqgvNz&ust=1728388988376000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjam--c_IgDFQAAAAAdAAAAABAE ![kando][internal-source]{: style="width:50px"} 
 
  
 ***
