@@ -5,10 +5,10 @@
 *A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállásértékek alapján*
 ### Eszközök
 
-. Multiméter    
-. Ellenállások:
-  -  R1 =
-  -  R2 =
-. Breadboard
-. Jelgenerátor
-. Oszcilloszkóp
+- Multiméter    
+- Ellenállások:
+  >  R1 =
+  >  R2 =
+- Breadboard
+- Jelgenerátor
+- Oszcilloszkóp
