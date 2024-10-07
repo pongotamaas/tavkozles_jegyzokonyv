@@ -7,8 +7,8 @@
 
 - Multiméter    
 - Ellenállások:
-  >  R1 =
-  >  R2 =
+  - [x] R1 =
+  - [ ] R2 =
 - Breadboard
 - Jelgenerátor
 - Oszcilloszkóp
