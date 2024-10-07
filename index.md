@@ -1,3 +1,4 @@
+***
 # Méréstechnikai Feladat: T Ellenállás-hálózat  
 ***
 *Méréstechnikai Feladat: T Ellenállás-hálózat*
