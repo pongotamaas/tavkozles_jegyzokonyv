@@ -1,5 +1,5 @@
 ***
-# Méréstechnikai Feladat: T Ellenállás-hálózat ![kando](https://cms.kando.intezmeny.edir.hu/uploads/imageedit_3_3893777332_c4067ae601.png {: style="width:50px"}) 
+# Méréstechnikai Feladat: T Ellenállás-hálózat ![kando](https://cms.kando.intezmeny.edir.hu/uploads/imageedit_3_3893777332_c4067ae601.png : style="width:50px") 
 
  
 ***
