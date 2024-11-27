@@ -9,7 +9,7 @@
 
 
 **A mérés száma:** 4. mérés  
-**A mérés dátuma:** 2024. 11. 27  
+**A mérés dátuma:** 2024. 11. 20  
 **A mérést vezette:** Sándor Péter  
 
 **Évfolyam:** 13. E  
@@ -244,4 +244,4 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 **Aláírás:** Pongó Tamás
 
-**Dátum:** 2024. 11. 29.
+**Dátum:** 2024. 11. 20.
