@@ -4,12 +4,12 @@
 
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:** Erős Bence  
+**A mérést végző neve:** Pongó Tamás  
 **A mérés tárgya:** Frekvencia vs. moduláció mérés
 
 
 **A mérés száma:** 4. mérés  
-**A mérés dátuma:** 2024. 11. 20  
+**A mérés dátuma:** 2024. 11. 27  
 **A mérést vezette:** Sándor Péter  
 
 **Évfolyam:** 13. E  
@@ -242,6 +242,6 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 </details>
 
-**Aláírás:** Erős Bence
+**Aláírás:** Pongó Tamás
 
-**Dátum:** 2024. 11. 20.
+**Dátum:** 2024. 11. 29.
