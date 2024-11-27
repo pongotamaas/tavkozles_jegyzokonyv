@@ -26,7 +26,7 @@ A T ellenállás-hálózat jellemzőinek meghatározása 6dB-es csillapításná
     - R1 = 367 Ω
     - R2 = 1.473 kΩ
   - **méréskor használt:**
-    - Rg = 2,2 Ω X 2,2 Ω
+    - Rg = 2,2 kΩ X 2,2 Ω
     - R1 = 220 Ω + 120 Ω
     - R2 = 1.5 kΩ
 ---
