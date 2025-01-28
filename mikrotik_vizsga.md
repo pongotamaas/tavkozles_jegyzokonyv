@@ -35,7 +35,8 @@
 ---
 
 ### Blokvázlat
-(asd)[https://github.com/pongotamaas/kepek/blob/main/Blokvazlat.png?raw=true]
+
+![Blokvazlat](https://github.com/user-attachments/assets/b9a2f3d1-4dfb-45de-b171-bf26b79624c5)
 
 ## 11. Mért Képek:
 <details>
