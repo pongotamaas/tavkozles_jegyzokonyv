@@ -16,11 +16,6 @@
 
 ---
 
-### Bevezetés
-
-
----
-
 ### 2. Alkalmazott mérőeszközök és készülékek
 
 
