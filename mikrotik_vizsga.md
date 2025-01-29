@@ -46,7 +46,17 @@
 <details>
 <summary>Kattins a részletekért</summary>
 
+![teszt1](https://github.com/user-attachments/assets/80b2b8ae-0b3d-4399-bd79-ede1d7010191)
 
+![teszt1-3](https://github.com/user-attachments/assets/c22b2b85-dedb-425d-8929-57de646179f3)
+
+![speed](https://github.com/user-attachments/assets/6c42c0cf-9f1a-41d7-bd7d-cab3842ccfb6)
+
+![teszt utols](https://github.com/user-attachments/assets/d2bcf6cf-cbc7-4120-8b49-673ca3af0fa7)
+
+![meres4](https://github.com/user-attachments/assets/943dbeba-ae2b-4519-9c35-61750def7ee4)
+
+![meres2](https://github.com/user-attachments/assets/172a1f85-931d-431a-a4e5-2a9294ad4274)
 
 
 </details>
