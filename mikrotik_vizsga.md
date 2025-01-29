@@ -38,6 +38,17 @@
 
 ![Blokvazlat](https://github.com/user-attachments/assets/b9a2f3d1-4dfb-45de-b171-bf26b79624c5)
 
+## Hálózati eszközök és IP-címek
+
+| Eszköz                              | Alapértelmezett IP-cím |
+|-------------------------------------|------------------------|
+| Mikrotik LHG18 LTE antenna          | 192.168.188.1          |
+| Mikrotik nRay 60GHz antenna (Master)| 192.168.88.2           |
+| Mikrotik nRay 60GHz antenna (Slave) | 192.168.88.3           |
+| SOHO router (AP módban)             | 192.168.88.4           |
+| Switch (opcionális)                 | 192.168.88.254         |
+| Kliens laptop (DHCP)                | 192.168.88.100-250     |
+
 ## 11. Mért Képek:
 <details>
 <summary>Kattins a részletekért</summary>
