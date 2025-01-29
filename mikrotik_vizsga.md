@@ -16,8 +16,6 @@
 
 ---
 
-# Mérési Jegyzőkönyv
-
 ### Bevezetés
 
 
