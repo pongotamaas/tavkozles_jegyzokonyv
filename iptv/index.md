@@ -38,23 +38,6 @@ Távolság az iskolánk és az adó torony között
 ![adotorony](https://github.com/user-attachments/assets/a5d4c0cb-a689-4289-991f-7855c21af0ea)
 
 
-## Hálózati topológia tervezése és kiépítése  
-
-
-### IP-cím kiosztás:  
-- 
-- 
--  
-- 
--  
-- 
-
-## Eszközök telepítése és konfigurálása  
-
-
-
-
-
 ## Hálózati tesztelés és hibakeresés   
 
 Ha a teszt nem indulna el, a Windows hálózati felderítést be kell kapcsolni  
