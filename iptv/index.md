@@ -60,6 +60,25 @@ Bridgeltünk LAN1-ről LAN3-ra közvetlenül IPTV-ről.
 Állítunk rá DHCP szervert, ami 192.168.1.2 tól 192.168.1.249-ig oszt IP-t, alapértelmezett átjáró 192.168.1.1.
 
 ## Tesztelések és mérési eredmények:  
+| Input | Program title              | OriginalService ID | LCN1..1023 | Encrypted | TS Output | OutputService ID | IP address   | IP port | Protocol |
+|-------|----------------------------|---------------------|------------|-----------|-----------|------------------|---------------|---------|----------|
+| 1     | Input 1                    | M1 HD               | 100        | 0         | FTA       | 1                | 224.0.0.1     | 1001    | UDP      |
+| 2     | Input 1                    | M4 Sport HD         | 101        | 0         | FTA       | 1                | 224.0.0.1     | 1002    | UDP      |
+| 3     | Input 1                    | Duna HD             | 102        | 0         | FTA       | 1                | 224.0.0.1     | 1003    | UDP      |
+| 4     | Input 1                    | DunaW/M4Sport+      | 103        | 0         | FTA       | 2                | 224.0.0.1     | 1004    | UDP      |
+| 5     | Input 1                    | Kossuth Radio       | 130        | 0         | FTA       | 4                | 224.0.0.1     | 1005    | UDP      |
+| 6     | Input 1                    | Petofi Radio        | 131        | 0         | FTA       | 4                | 224.0.0.1     | 1006    | UDP      |
+| 7     | Input 1                    | Bartok Radio        | 132        | 0         | FTA       | 4                | 224.0.0.1     | 1007    | UDP      |
+| 8     | Input 1                    | Danko Radio         | 133        | 0         | FTA       | 4                | 224.0.0.1     | 1008    | UDP      |
+| 10    | Input 2                    | M2 HD               | 200        | 0         | FTA       | 1                | 224.0.0.1     | 1010    | UDP      |
+| 11    | Input 2                    | M5 HD               | 201        | 0         | FTA       | 2                | 224.0.0.1     | 1011    | UDP      |
+| 12    | Input 2                    | TV2                 | 202        | 0         | FTA       | 1                | 224.0.0.1     | 1012    | UDP      |
+| 13    | Input 2                    | RTL                 | 203        | 0         | FTA       | 1                | 224.0.0.1     | 1013    | UDP      |
+| 14    | Input 2                    | MAX4                | 206        | 0         | FTA       | 2                | 224.0.0.1     | 1014    | UDP      |
+| 15    | Input 2                    | Spektrum Home +     | 207        | 0         | FTA       | 2                | 224.0.0.1     | 1015    | UDP      |
+| 16    | Input 2                    | MinDig TV Plusz Info| 208        | 0         | FTA       | 2                | 224.0.0.1     | 1016    | UDP      |
+| 37    | Input 3      | HEVC teszt          | 524        | 0         | FTA       | 2                | 224.0.0.1     | 1037    | UDP  |
+| 39    | Input 4      | Miskolc TV          | 1000       | 0         | FTA       | 2                | 224.0.0.1     | 1039    | UDP  |
 
 A táblázat összegzi a televíziós és rádiós csatornák adatait, a csatornák neveit, azonosítóit, logikai csatorna számát, IP-címét, portját és az adatátviteli protokollt. Ezek az adatok a csatornák jellemzőit és hozzáférhetőségét foglalja össze.  
 
