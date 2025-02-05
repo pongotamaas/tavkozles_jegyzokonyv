@@ -52,7 +52,7 @@ SSID: furti
 Password: furti12345  
 Admin belépés:  
   - Név: admin  
-  - Jrlszó: admin12345
+  - Jelszó: admin12345
 
 IGMP snooping bekapcsolása.   
 Bemenetet, kimenetet és a laptop interface-t is IPTV-re állítjuk.  
