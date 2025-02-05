@@ -50,48 +50,13 @@ Távolság az iskolánk és az adó torony között
 
 A táblázat összegzi a televíziós és rádiós csatornák adatait, a csatornák neveit, azonosítóit, logikai csatorna számát, IP-címét, portját és az adatátviteli protokollt. Ezek az adatok a csatornák jellemzőit és hozzáférhetőségét foglalja össze.  
 
-| Input | Program title              | OriginalService ID | LCN1..1023 | Encrypted | TS Output | OutputService ID | IP address   | IP port | Protocol |
-|-------|----------------------------|---------------------|------------|-----------|-----------|------------------|---------------|---------|----------|
-| 1     | Input 1                    |  <span style="color:red">M1 HD</span>  | 100        | 0         | FTA       | 1                | 224.0.0.1     | 1001    | UDP      |
-| 2     | Input 1                    | M4 Sport HD         | 101        | 0         | FTA       | 1                | 224.0.0.1     | 1002    | UDP      |
-| 3     | Input 1                    | Duna HD             | 102        | 0         | FTA       | 1                | 224.0.0.1     | 1003    | UDP      |
-| 4     | Input 1                    | DunaW/M4Sport+      | 103        | 0         | FTA       | 2                | 224.0.0.1     | 1004    | UDP      |
-| 5     | Input 1                    | Kossuth Radio       | 130        | 0         | FTA       | 4                | 224.0.0.1     | 1005    | UDP      |
-| 6     | Input 1                    | Petofi Radio        | 131        | 0         | FTA       | 4                | 224.0.0.1     | 1006    | UDP      |
-| 7     | Input 1                    | Bartok Radio        | 132        | 0         | FTA       | 4                | 224.0.0.1     | 1007    | UDP      |
-| 8     | Input 1                    | Danko Radio         | 133        | 0         | FTA       | 4                | 224.0.0.1     | 1008    | UDP      |
-| 10    | Input 2                    | M2 HD               | 200        | 0         | FTA       | 1                | 224.0.0.1     | 1010    | UDP      |
-| 11    | Input 2                    | M5 HD               | 201        | 0         | FTA       | 2                | 224.0.0.1     | 1011    | UDP      |
-| 12    | Input 2                    | TV2                 | 202        | 0         | FTA       | 1                | 224.0.0.1     | 1012    | UDP      |
-| 13    | Input 2                    | RTL                 | 203        | 0         | FTA       | 1                | 224.0.0.1     | 1013    | UDP      |
-| 14    | Input 2                    | MAX4                | 206        | 0         | FTA       | 2                | 224.0.0.1     | 1014    | UDP      |
-| 15    | Input 2                    | Spektrum Home +     | 207        | 0         | FTA       | 2                | 224.0.0.1     | 1015    | UDP      |
-| 16    | Input 2                    | MinDig TV Plusz Info| 208        | 0         | FTA       | 2                | 224.0.0.1     | 1016    | UDP      |
-| 37    | Input 3      | HEVC teszt          | 524        | 0         | FTA       | 2                | 224.0.0.1     | 1037    | UDP  |
-| 39    | Input 4      | Miskolc TV          | 1000       | 0         | FTA       | 2                | 224.0.0.1     | 1039    | UDP  |
+## MHz sávszélességgel sugároz mindegyik csatorna.
+Az alábbi képeken a digitális televíziós vevő (DVB-T) beállítófelülete látható, amely az antennáról leválasztott különböző adók adatait jeleníti meg. A képeken megfigyelhetjük a bemeneteket, frekvenciákat, sávszélességeket, csatornákat, valamint a megjegyzésekben a multiplexált csatornák neveit is.
 
-
-
-| Input | Program title              | OriginalService ID | LCN1..1023 | Encrypted | TS Output | OutputService ID | IP address   | IP port | Protocol |
-|-------|----------------------------|--------------------|------------|-----------|-----------|------------------|---------------|---------|----------|
-| 1     | Input 1| <span style="color:red">M1 HD</span>| 100| 0| FTA       | 1                | 224.0.0.1     | 1001    | UDP      |
-| 2     | Input 1                    | <span style="color:blue">M4 Sport HD</span>         | 101        | 0         | FTA       | 1                | 224.0.0.1     | 1002    | UDP      |
-| 3     | Input 1                    | <span style="color:green">Duna HD</span>             | 102        | 0         | FTA       | 1                | 224.0.0.1     | 1003    | UDP      |
-| 4     | Input 1                    | <span style="color:orange">DunaW/M4Sport+</span>      | 103        | 0         | FTA       | 2                | 224.0.0.1     | 1004    | UDP      |
-| 5     | Input 1                    | <span style="color:purple">Kossuth Radio</span>       | 130        | 0         | FTA       | 4                | 224.0.0.1     | 1005    | UDP      |
-| 6     | Input 1                    | <span style="color:yellow">Petofi Radio</span>        | 131        | 0         | FTA       | 4                | 224.0.0.1     | 1006    | UDP      |
-| 7     | Input 1                    | <span style="color:pink">Bartok Radio</span>        | 132        | 0         | FTA       | 4                | 224.0.0.1     | 1007    | UDP      |
-| 8     | Input 1                    | <span style="color:gray">Danko Radio</span>         | 133        | 0         | FTA       | 4                | 224.0.0.1     | 1008    | UDP      |
-| 10    | Input 2                    | <span style="color:brown">M2 HD</span>               | 200        | 0         | FTA       | 1                | 224.0.0.1     | 1010    | UDP      |
-| 11    | Input 2                    | <span style="color:lime">M5 HD</span>               | 201        | 0         | FTA       | 2                | 224.0.0.1     | 1011    | UDP      |
-| 12    | Input 2                    | <span style="color:cyan">TV2</span>                 | 202        | 0         | FTA       | 1                | 224.0.0.1     | 1012    | UDP      |
-| 13    | Input 2                    | <span style="color:magenta">RTL</span>                 | 203        | 0         | FTA       | 1                | 224.0.0.1     | 1013    | UDP      |
-| 14    | Input 2                    | <span style="color:teal">MAX4</span>                | 206        | 0         | FTA       | 2                | 224.0.0.1     | 1014    | UDP      |
-| 15    | Input 2                    | <span style="color:indigo">Spektrum Home +</span>     | 207        | 0         | FTA       | 2                | 224.0.0.1     | 1015    | UDP      |
-| 16    | Input 2                    | <span style="color:violet">MinDig TV Plusz Info</span>| 208        | 0         | FTA       | 2                | 224.0.0.1     | 1016    | UDP      |
-| 37    | Input 3                    | <span style="color:red">HEVC teszt</span>          | 524        | 0         | FTA       | 2                | 224.0.0.1     | 1037    | UDP  |
-| 39    | Input 4                    | <span style="color:blue">Miskolc TV</span>          | 1000       | 0         | FTA       | 2                | 224.0.0.1     | 1039    | UDP  |
-
+![409257370-a11b38c4-2c78-4c71-8d81-e2cb7f00286d](https://github.com/user-attachments/assets/7626aa35-25a8-4835-8e9a-cf6d7407aec1)
+![409256948-4bae06d4-62bc-4f04-9bca-8dfc6dd3ff38](https://github.com/user-attachments/assets/740530e0-91c0-4542-8e01-594db91b0346)
+![409257121-e8fbf4ff-7d67-4cd5-9a08-86bfbd1e7a73](https://github.com/user-attachments/assets/3f1de2f2-89a1-492c-a481-5bf0077b1345)
+![409255245-7a88021a-732e-4971-bdd9-9658415c0aa0](https://github.com/user-attachments/assets/661dd022-ac42-48e7-98b7-417fd094abc6)
 
 
 ## Hálózati tesztelés és hibakeresés   
