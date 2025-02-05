@@ -46,6 +46,19 @@ Távolság az iskolánk és az adó torony között
 - MER érték: 26.3dB
 - Moduláció: DVBT/QPSK/8K/1/32
 
+### Router konfigurálása:  
+
+SSID: furti  
+Password: furti12345  
+Admin belépés:  
+  - Név: admin  
+  - Jrlszó: admin12345
+
+IGMP snooping bekapcsolása.   
+Bemenetet, kimenetet és a laptop interface-t is IPTV-re állítjuk.  
+Bridgeltünk LAN1-ről LAN3-ra közvetlenül IPTV-ről.    
+Állítunk rá DHCP szervert, ami 192.168.1.2 tól 192.168.1.249-ig oszt IP-t, alapértelmezett átjáró 192.168.1.1.
+
 ## Tesztelések és mérési eredmények:  
 
 A táblázat összegzi a televíziós és rádiós csatornák adatait, a csatornák neveit, azonosítóit, logikai csatorna számát, IP-címét, portját és az adatátviteli protokollt. Ezek az adatok a csatornák jellemzőit és hozzáférhetőségét foglalja össze.  
