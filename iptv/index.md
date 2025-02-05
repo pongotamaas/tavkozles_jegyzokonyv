@@ -74,7 +74,7 @@ A táblázat összegzi a televíziós és rádiós csatornák adatait, a csatorn
 
 | Input | Program title              | OriginalService ID | LCN1..1023 | Encrypted | TS Output | OutputService ID | IP address   | IP port | Protocol |
 |-------|----------------------------|--------------------|------------|-----------|-----------|------------------|---------------|---------|----------|
-| 1     | Input 1                    | <span style="color:red">M1 HD</span>               | 100        | 0         | FTA       | 1                | 224.0.0.1     | 1001    | UDP      |
+| 1     | Input 1| <span style="color:red">M1 HD</span>| 100| 0| FTA       | 1                | 224.0.0.1     | 1001    | UDP      |
 | 2     | Input 1                    | <span style="color:blue">M4 Sport HD</span>         | 101        | 0         | FTA       | 1                | 224.0.0.1     | 1002    | UDP      |
 | 3     | Input 1                    | <span style="color:green">Duna HD</span>             | 102        | 0         | FTA       | 1                | 224.0.0.1     | 1003    | UDP      |
 | 4     | Input 1                    | <span style="color:orange">DunaW/M4Sport+</span>      | 103        | 0         | FTA       | 2                | 224.0.0.1     | 1004    | UDP      |
