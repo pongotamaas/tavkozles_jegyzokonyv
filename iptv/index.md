@@ -53,10 +53,12 @@ A táblázat összegzi a televíziós és rádiós csatornák adatait, a csatorn
 ## MHz sávszélességgel sugároz mindegyik csatorna.
 Az alábbi képeken a digitális televíziós vevő (DVB-T) beállítófelülete látható, amely az antennáról leválasztott különböző adók adatait jeleníti meg. A képeken megfigyelhetjük a bemeneteket, frekvenciákat, sávszélességeket, csatornákat, valamint a megjegyzésekben a multiplexált csatornák neveit is.
 
-![409257370-a11b38c4-2c78-4c71-8d81-e2cb7f00286d](https://github.com/user-attachments/assets/7626aa35-25a8-4835-8e9a-cf6d7407aec1)
-![409256948-4bae06d4-62bc-4f04-9bca-8dfc6dd3ff38](https://github.com/user-attachments/assets/740530e0-91c0-4542-8e01-594db91b0346)
-![409257121-e8fbf4ff-7d67-4cd5-9a08-86bfbd1e7a73](https://github.com/user-attachments/assets/3f1de2f2-89a1-492c-a481-5bf0077b1345)
-![409255245-7a88021a-732e-4971-bdd9-9658415c0aa0](https://github.com/user-attachments/assets/661dd022-ac42-48e7-98b7-417fd094abc6)
+![409255245-7a88021a-732e-4971-bdd9-9658415c0aa0](https://github.com/user-attachments/assets/8b0256dd-5c45-4caf-b13a-ee488f71f606)
+![409257121-e8fbf4ff-7d67-4cd5-9a08-86bfbd1e7a73](https://github.com/user-attachments/assets/0ab563ae-2bbb-400c-b4da-152e8beb6f87)
+![409256948-4bae06d4-62bc-4f04-9bca-8dfc6dd3ff38](https://github.com/user-attachments/assets/9ba88e07-4fe0-4558-a745-7a966bdcf54c)
+![409257370-a11b38c4-2c78-4c71-8d81-e2cb7f00286d](https://github.com/user-attachments/assets/9d92cdde-c973-467a-bf73-fe9b7493d5bf)
+
+
 
 
 ## Hálózati tesztelés és hibakeresés   
