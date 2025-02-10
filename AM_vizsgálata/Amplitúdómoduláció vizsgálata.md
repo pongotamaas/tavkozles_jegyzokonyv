@@ -21,10 +21,6 @@
 
 - A távközlési rendszerek alapvető modulációs eljárásai közé tartozik az amplitúdómoduláció (AM), amelyben egy nagyobb frekvenciájú vivőjelet egy alacsonyabb frekvenciájú moduláló jel változtat. Ennek a folyamatnak a megértése és vizsgálata elengedhetetlen az analóg kommunikációs rendszerek tanulmányozásához.
 
-- Jelen mérési feladat célja az AM jel előállítása és spektrális vizsgálata a GRF-1300A RF és kommunikációs tréner segítségével. A gyakorlat során egy 880 MHz-es RF vivőfrekvenciát és egy 100 kHz-es szinuszos moduláló jelet alkalmazunk. A spektrumanalizátor segítségével elemezzük az AM jel spektrumát, és meghatározzuk annak jelszintjét, sávszélességét, valamint a modulációs mélységet.
-
-- A mérések során 100%-os és 63%-os modulációs mélységet állítunk be, dokumentálva az egyes paramétereket és az eredményeket. A spektrumképek mentésével és elemzésével pontosabb képet kapunk az AM jel viselkedéséről, amely hozzájárul a modulációs technikák mélyebb megértéséhez.
-
 ---
 
 ## 01. Alkalmazott eszközök:
